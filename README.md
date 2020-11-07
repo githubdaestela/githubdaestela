@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<img align="center" width="250" height="250" src="C:\Users\estel\Documents\Generation\Webp.net-gifmaker">
 
 <!--
 **githubdaestela/githubdaestela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
