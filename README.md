@@ -8,7 +8,7 @@
 
 ### :microscope: Educadora e Cientista:
 
-### :open_file_folder: Desenvolvedora:
+### :battery: Desenvolvedora:
 
 ### :art: Sobre mim:
 
