@@ -10,7 +10,7 @@
 
 ### :open_file_folder: Desenvolvedora:
 
-### :clapper: Sobre mim:
+### :art: Sobre mim:
 
 ### :floppy_disk: Atividades no GitHub:
 
