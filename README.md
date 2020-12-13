@@ -24,7 +24,7 @@
 
 #### Soft skill:
 <div>
-<img align="center" srchttps://raw.githubusercontent.com/githubdaestela/githubdaestela/main/assets/radar_chart.jpg width="500"/>
+<img align="center" src="https://raw.githubusercontent.com/githubdaestela/githubdaestela/main/assets/radar_chart.jpg" width="500"/>
 </div>
 
 ### :art: Sobre mim:
