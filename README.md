@@ -12,6 +12,10 @@
 
 ### :art: Sobre mim:
 
+<div>
+<img align="center" src="https://raw.githubusercontent.com/githubdaestela/githubdaestela/main/assets/grafico.png" width="500"/>
+</div>
+
 ### :floppy_disk: Atividades no GitHub:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githubdaestela&show_icons=true&theme=vue)
