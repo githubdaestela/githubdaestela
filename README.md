@@ -10,7 +10,7 @@
 
 ### :computer: Desenvolvedora:
 
-#### Hard skill:
+#### - Hard skill:
 ![HTML Badge](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=plastic&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=plastic&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow.svg?&style=plastic&logo=javascript&logoColor=white)
@@ -22,7 +22,7 @@
 ![Spring Badge](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=plastic&logo=spring&logoColor=white)
 ![MySql Badge](https://img.shields.io/badge/MySql-%2300f.svg?&style=plastic&logo=mysql&logoColor=informational)
 
-#### Soft skill:
+#### - Soft skill:
 <div>
 <img align="center" src="https://raw.githubusercontent.com/githubdaestela/githubdaestela/main/assets/radar_chart.jpg" width="500"/>
 </div>
