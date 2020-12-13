@@ -8,7 +8,7 @@
 
 ### :microscope: Educadora e Cientista:
 
-### :battery: Desenvolvedora:
+### :computer: Desenvolvedora:
 
 ### :art: Sobre mim:
 
