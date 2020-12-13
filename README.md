@@ -20,7 +20,7 @@
 ![Java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=plastic&logo=java&logoColor=white?logoWidth=40)
 ![Docker Badge](https://img.shields.io/badge/Docker-0FAAFF.svg?&style=plastic&logo=docker&logoColor=white)
 ![Spring Badge](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=plastic&logo=spring&logoColor=white)
-![MySql Badge](https://img.shields.io/badge/MySql-%2300f.svg?&style=plastic&logo=mysql&logoColor=informational)
+![MySql Badge](https://img.shields.io/badge/MySQL-%2300f.svg?&style=plastic&logo=mysql&logoColor=informational)
 
 #### - Soft skill:
 <div>
