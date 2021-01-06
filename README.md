@@ -1,12 +1,16 @@
 <h1 align="center">Bem-vinde! :rainbow:</h1>
 <br>
 
+## Eu me chamo Estela Maria 
+<br>
+
 ### :mailbox_with_mail: Entre em contato comigo:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estela-maria-costa-monteiro-367907179/)](https://www.linkedin.com/in/estela-maria-costa-monteiro-367907179/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/linkdindaestela/)](https://www.linkedin.com/in/linkdindaestela/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:estela.is.coding@gmail.com)](mailto:estela.is.coding@gmail.com) 
 
 ### :microscope: Educadora e Cientista:
+#### - Hard skills:
 
 ### :computer: Desenvolvedora:
 
