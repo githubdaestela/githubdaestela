@@ -2,7 +2,6 @@
 <br>
 
 ## Eu me chamo Estela Maria 
-<br>
 
 ### :mailbox_with_mail: Entre em contato comigo:
 
