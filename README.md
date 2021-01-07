@@ -3,8 +3,6 @@
 
 <img align="right" width="250" src="https://i.ibb.co/6njd6Dk/octocat-2.png" />
 
-## Eu me chamo Estela Maria 
-
 ### :mailbox_with_mail: Entre em contato comigo:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/linkdindaestela/)](https://www.linkedin.com/in/linkdindaestela/)
