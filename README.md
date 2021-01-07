@@ -9,7 +9,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:estela.is.coding@gmail.com)](mailto:estela.is.coding@gmail.com) 
 
 ### :microscope: Educadora e Cientista:
-#### - Hard skills:
+#### Graduada em Licenciatura em Ciências com especificação em Física pela Universidade Federal de São Paulo
+#### Pós Graduanda em Ensino de Ciências e Matemática pela Universidade Federal de São Paulo
 
 ### :computer: Desenvolvedora:
 
@@ -27,13 +28,13 @@
 
 #### - Soft skills:
 <div>
-<img align="center" src="https://raw.githubusercontent.com/githubdaestela/githubdaestela/main/assets/radar_chart.jpg" width="500"/>
+<img align="center" src="https://raw.githubusercontent.com/githubdaestela/githubdaestela/main/assets/radar_chart.jpg" width="500"/ alt="Um gráfico de radar dividido em oito tópicos. 1-Comunicação 2-Persistência 3-Responsabilidade pessoal 4-Mentalidade de crescimento 5-Proativdade 6-Gerenciamento de tempo 7-Trabalho em equipe 8-Atenção aos detalhes. Cada tópico equivale as soft skills que a autora considera ter.">
 </div>
 
 ### :art: Sobre mim:
 
 <div>
-<img align="center" src="https://raw.githubusercontent.com/githubdaestela/githubdaestela/main/assets/grafico.png" width="500"/>
+<img align="center" src="https://raw.githubusercontent.com/githubdaestela/githubdaestela/main/assets/grafico.png" width="500"/ alt="Um gráfico de pizza (diagrama circular)  em 3D, dividido em dez partes iguais que estão todas com cores diferentes. Cada fatia corresponde a 10% dp gráfico. Na legenda estão o que corresponde cada fatia. Segue cada parte: 1-Ler 2-Música 3-Filme/Série 4-Trabalhos manuais 5-Conectar pessoas 6-Correr/Bicicleta 7-Viajar 8-Aprender 9-Arte 10-Natureza. Cada parte equivale ao que a autora gosta de fazer.">
 </div>
 
 ### :floppy_disk: Atividades no GitHub:
