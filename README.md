@@ -9,8 +9,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:estela.is.coding@gmail.com)](mailto:estela.is.coding@gmail.com) 
 
 ### :microscope: Educadora e Cientista:
-#### Graduada em Licenciatura em Ciências com especificação em Física pela Universidade Federal de São Paulo
-#### Pós Graduanda em Ensino de Ciências e Matemática pela Universidade Federal de São Paulo
+#### - Graduada em Licenciatura em Ciências com especificação em Física pela Universidade Federal de São Paulo
+#### - Pós Graduanda em Ensino de Ciências e Matemática pela Universidade Federal de São Paulo
 
 ### :computer: Desenvolvedora:
 
