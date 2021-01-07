@@ -1,6 +1,7 @@
 <h1 align="center">Bem-vinde! :rainbow:</h1>
 <br>
 
+<img align="right" width="250" src="https://i.ibb.co/6njd6Dk/octocat-2.png" />
 ## Eu me chamo Estela Maria 
 
 ### :mailbox_with_mail: Entre em contato comigo:
