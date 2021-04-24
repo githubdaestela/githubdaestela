@@ -10,7 +10,7 @@
 
 ### :microscope: Educadora e Cientista:
 #### - Graduada em Licenciatura em Ciências com especificação em Física pela Universidade Federal de São Paulo
-#### - Pós Graduanda em Ensino de Ciências e Matemática pela Universidade Federal de São Paulo
+#### - Mestranda em Ensino de Ciências e Matemática pela Universidade Federal de São Paulo
 
 ### :computer: Desenvolvedora:
 
